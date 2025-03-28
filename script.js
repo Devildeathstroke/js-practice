@@ -23,5 +23,4 @@
 // console.log(ans);
 
 //6-> Use console.error() to simulate an error message .
-let ans
-console.error(message)
+console.error("error")
