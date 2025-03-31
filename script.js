@@ -300,8 +300,8 @@
 // console.log(toKebabCase("Hello World_test")); 
 
 //50-> Create a function that logs "Hello, World!" everytime it is called
-function Hello(){
-    console.log("Hello World")
-}
-Hello()
-Hello()
+// function Hello(){
+//     console.log("Hello World")
+// }
+// Hello()
+// Hello()
